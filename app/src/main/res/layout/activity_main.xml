@@ -66,6 +66,7 @@
         android:layout_marginBottom="4dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageButton5"
         app:srcCompat="@drawable/heart_24" />
 
     <ImageButton
