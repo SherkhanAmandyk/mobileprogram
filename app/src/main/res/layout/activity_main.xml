@@ -192,7 +192,6 @@
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-
     <TextView
         android:id="@+id/r_day"
         android:layout_width="wrap_content"
